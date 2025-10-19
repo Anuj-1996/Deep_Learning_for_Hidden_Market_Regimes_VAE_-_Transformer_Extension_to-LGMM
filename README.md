@@ -1,6 +1,6 @@
 # Deep Learning for Hidden Market Regimes: VAE & Transformer Extension to LGMM
 
-**Author:** [Your Name]  
+**Author:** Anuj Chavan  
 **Medium article:** *Deep Learning for Hidden Market Regimes — Variational Autoencoder & Transformer Extension to LGMM*  
 **Notebook:** Google Colab compatible (no setup required)
 
