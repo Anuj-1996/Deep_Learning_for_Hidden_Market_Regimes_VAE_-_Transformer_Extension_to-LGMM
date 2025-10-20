@@ -16,6 +16,7 @@ This project explores **quantitative market regime detection** using three appro
 
 It combines statistical clustering, deep latent modeling, and temporal pattern learning into one reproducible pipeline for **market state detection** and **regime-sensitive trading overlays**.
 
+<img width="2049" height="1532" alt="download (23)" src="https://github.com/user-attachments/assets/8f9c37ae-1170-4dae-8a8b-0477ea677edb" />
 ---
 
 ## 🧩 Key Features
@@ -33,19 +34,8 @@ It combines statistical clustering, deep latent modeling, and temporal pattern l
   - Full **regime timeline**
 - Regime-based overlay backtest comparing each model’s performance
 
----
 
-## 📊 Example Output
 
-**Cumulative returns of regime-aware overlays vs buy & hold**
-
-| Model | Annualized Return | Silhouette Score |
-|--------|------------------:|-----------------:|
-| LGMM | −12.1% | 0.28 |
-| VAE | −1.6% | 0.53 |
-| Transformer | +10.2% | 0.39 |
-
----
 
 ## 🧠 What You’ll Learn
 
